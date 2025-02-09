@@ -1,0 +1,4 @@
+*.vsidx
+*.sqlite-journal
+*.json
+*.sqlite
