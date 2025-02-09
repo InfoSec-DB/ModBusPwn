@@ -1,7 +1,5 @@
 ﻿# ModBusPwn – The Ultimate Modbus Exploitation & SCADA Recon Toolkit
 
-![ModBusPwn Banner](https://afterdark.sh/imgs/modbus.png)
-
 
 ## 🔥 ModBusPwn: ICS/SCADA Hacking & Modbus Exploitation Framework
 
