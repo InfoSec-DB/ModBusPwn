@@ -1,7 +1,4 @@
-﻿# ModBusPwn – The Ultimate Modbus Exploitation & SCADA Recon Toolkit
-
-
-## 🔥 ModBusPwn: ICS/SCADA Hacking & Modbus Exploitation Framework
+﻿# 🔥 ModBusPwn: ICS/SCADA Hacking & Modbus Exploitation Framework
 
 **ModBusPwn** is a comprehensive **Modbus TCP exploitation framework** designed for **penetration testers, red teams, and security researchers**. It provides a full suite of tools for **SCADA/ICS reconnaissance, fingerprinting, and exploitation** of **Programmable Logic Controllers (PLCs)** and other **industrial devices**.
 
